@@ -1,2 +1,2 @@
-# THESIS RESERACH ANALYSYS
-## Utilization of EMR data for early disease prediction
+# TIME SERIES ANALYSIS
+## Goal is to understand effects of data in daily life.
